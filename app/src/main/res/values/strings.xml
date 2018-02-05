@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="button">Pair devices</string>
+    <string name="listView">Bluetooth devices list</string>
+</resources>
